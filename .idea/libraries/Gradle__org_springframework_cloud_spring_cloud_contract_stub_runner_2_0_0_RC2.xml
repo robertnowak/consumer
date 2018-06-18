@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-contract-stub-runner:2.0.0.RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-stub-runner/2.0.0.RC2/26d2c31e08aec295c51500018e3fdc6eaedb62ea/spring-cloud-contract-stub-runner-2.0.0.RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-stub-runner/2.0.0.RC2/f63474a7f7acd425aeac2d51d24f5987cf5748fa/spring-cloud-contract-stub-runner-2.0.0.RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
